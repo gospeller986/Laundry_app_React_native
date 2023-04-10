@@ -23,3 +23,5 @@ This a react native application that enables users to book online laundry Servic
 * 📌 The App uses the location details of the person to find the laundry services near that area and also the price .
 * 📌 The User  can provide Exact  ADDRESS , DATE and TIME for the pick and delivery of the Clothes .
 * 📌 The User also can avail free delivery above a certain bill .
+
+![register](https://user-images.githubusercontent.com/86009168/230831366-1e97dab7-528a-4cbd-8dd2-25f264531c01.png)
