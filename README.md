@@ -24,4 +24,22 @@ This a react native application that enables users to book online laundry Servic
 * 📌 The User  can provide Exact  ADDRESS , DATE and TIME for the pick and delivery of the Clothes .
 * 📌 The User also can avail free delivery above a certain bill .
 
+#Application Screen Shots
+
+## Register Screen 
 ![register](https://user-images.githubusercontent.com/86009168/230831366-1e97dab7-528a-4cbd-8dd2-25f264531c01.png)
+## Login Screen 
+![login](https://user-images.githubusercontent.com/86009168/230831545-3f646c7f-d096-4581-90d7-b02ae88b7dc2.png)
+
+## Home Screen 
+![home1](https://user-images.githubusercontent.com/86009168/230831661-df12a24e-460f-4f5f-857d-4976e719f9ee.png)
+![home2](https://user-images.githubusercontent.com/86009168/230831679-0195aa7b-3a8c-480b-8f6f-21048d797d9c.png)
+
+## PickUp Details Screen 
+![details](https://user-images.githubusercontent.com/86009168/230831624-1ea4f8c7-12af-4031-b7bf-2944f37e8739.png)
+
+## Cart Screen 
+![cart](https://user-images.githubusercontent.com/86009168/230831597-d0e58b08-dba2-455e-960a-6414b77cb650.png)
+
+## Order Placed Screen 
+![orderplaced](https://user-images.githubusercontent.com/86009168/230831701-c97ecb86-5663-4859-b8e9-bfa628ff00f4.png)
