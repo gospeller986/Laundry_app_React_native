@@ -24,6 +24,37 @@ This a react native application that enables users to book online laundry Servic
 * 📌 The User  can provide Exact  ADDRESS , DATE and TIME for the pick and delivery of the Clothes .
 * 📌 The User also can avail free delivery above a certain bill .
 
+# Getting Started 
+
+  ##  Get into the project repository 
+   
+   ```javascript
+   cd AwesomeProject01
+   
+   ```
+   
+   ## Install the dependencies 
+   
+   ```javascript
+   npm install
+   ```
+   
+   ## Starting  the Server 
+   
+   ```javascript 
+   expo start 
+   or
+   npm start
+   ```
+   
+   ## Starting the andriod Emulator 
+   
+   ```javascript 
+     enter a
+   ```
+   
+
+
 #Application Screen Shots
 
 ## Register Screen 
