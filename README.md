@@ -1,6 +1,10 @@
 # Laundry App 
 
-This a react native application that enables users to book online laundry Services .
+* This a react native application that enables users to book online laundry Services .
+* Firebase is used a database to store the User details and authentication .
+* Redux toolkit is used to manage the State inside of the react native applications .
+* The user can Select the service and select the nearest store for the laundry services 
+* The user can also select the date and time of pickup and delivery of clothes .
 
 # Tech Stack 
 
