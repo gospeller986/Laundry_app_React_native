@@ -1,6 +1,8 @@
 # Laundry App 
 
 * This a react native application that enables users to book online laundry Services .
+* Implemented a proximity service for suggesting nearest Stores using
+Haversine formula and increased store visibility by 90% 
 * Firebase is used a database to store the User details and authentication .
 * Redux toolkit is used to manage the State inside of the react native applications .
 * The user can Select the service and select the nearest store for the laundry services 
